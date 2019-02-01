@@ -1,4 +1,4 @@
-# IlgincBilgilerApp
+# Bilgi Kartları Uygulaması
 
 Bu projede SQLite ile veri ekleme ve veri çekme işlemlerini gerçekleştirdim.
 
